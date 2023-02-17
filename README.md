@@ -27,5 +27,5 @@ $ python heart.py
 
 ## Screenshot
 <div align="center">
-<img src="TODO" />
+<img src="https://raw.githubusercontent.com/ArnavK-09/heart.py/main/screenshot.png" alt="ScreenShot" />
 </div>
